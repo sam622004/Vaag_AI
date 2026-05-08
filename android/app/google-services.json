@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86285315023",
+    "project_id": "vaagai-5cb27",
+    "storage_bucket": "vaagai-5cb27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86285315023:android:d3531f57b68fc19d81c0ba",
+        "android_client_info": {
+          "package_name": "com.example.vaagai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5loe0GYXCygF8wqqCA2vBpSFyb5aknE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
