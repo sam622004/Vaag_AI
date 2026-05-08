@@ -25,6 +25,21 @@ It integrates four key modules:
 - Python (ML model integration)
 - REST APIs (Agmarknet, Weather)
 
+- ## Screenshots
+
+### Schemes Explorer
+![Schemes Explorer](screenshot_of_proj/104843.png)
+
+### Plant Disease Detection
+![Plant Disease Detection](screenshot_of_proj/104832.png)
+
+### Weather Notifier
+![Weather Notifier](screenshot_of_proj/104854.png)
+
+### AgMarket Price Dashboard
+![AgMarket Price Dashboard](screenshot_of_proj/104902.png)
+
+
 ## Getting Started
 Clone the repository and install dependencies:
 
