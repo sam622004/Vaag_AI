@@ -31,7 +31,7 @@ It integrates four key modules:
 ![Schemes Explorer](screenshot_of_proj/104843.png)
 
 ### Plant Disease Detection
-![Plant Disease Detection](screenshot_of_proj/104832.png)
+![Plant Disease Detection](screenshot_of_proj/Screenshot 2026-05-08 104832.png)
 
 ### Weather Notifier
 ![Weather Notifier](screenshot_of_proj/104854.png)
