@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/sam622004/Vaagai_AI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sam622004/Vaagai_AI?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sam622004/Vaagai_AI)
+![GitHub license](https://img.shields.io/github/license/sam622004/Vaagai_AI)
 
 # Vaagai App
 
